@@ -1,0 +1,4 @@
+# Fronend
+node_modules/
+.next/
+.idea/

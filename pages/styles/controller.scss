@@ -1,0 +1,33 @@
+.controller {
+  color: white;
+}
+table {
+  tr {
+    td {
+      padding: 10px 20px;
+    }
+  }
+}
+button, input {
+  padding: 5px;
+  margin: 1px;
+  &.active {
+    background: #0097a7;
+    color: black;
+  }
+}
+
+button{
+  &.on {
+    border-color: green;
+    color: green;
+  }
+  &.off {
+    border-color: red;
+    color: red;
+  }
+  &.disabled {
+    opacity: .5;
+  }
+
+}
