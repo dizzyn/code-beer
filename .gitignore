@@ -1,4 +1,5 @@
 # Fronend
 node_modules/
 .next/
-.idea/
+PLAYERS/
+yarn-error.log
