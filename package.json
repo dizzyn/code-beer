@@ -44,7 +44,7 @@
     "next": "^7.0.2",
     "node-cache": "^4.2.0",
     "node-fetch": "^2.2.0",
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "prettier": "1.7.4",
     "prismjs": "^1.15.0",
     "react": "^16.4.1",
